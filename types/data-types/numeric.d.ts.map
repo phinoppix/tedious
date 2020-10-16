@@ -1,0 +1,1 @@
+{"version":3,"file":"numeric.d.ts","sourceRoot":"","sources":["../../src/data-types/numeric.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,cAAc,CAAC;AAIxC,QAAA,MAAM,OAAO,EAAE,QAAQ,GAAG;IAAE,YAAY,EAAE,WAAW,CAAC,QAAQ,CAAC,cAAc,CAAC,CAAC,CAAC;IAAC,gBAAgB,EAAE,WAAW,CAAC,QAAQ,CAAC,kBAAkB,CAAC,CAAC,CAAA;CA0F3I,CAAC;AAEF,eAAe,OAAO,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"datetimeoffset.d.ts","sourceRoot":"","sources":["../../src/data-types/datetimeoffset.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,cAAc,CAAC;AAMxC,QAAA,MAAM,cAAc,EAAE,QAAQ,GAAG;IAAE,YAAY,EAAE,WAAW,CAAC,QAAQ,CAAC,cAAc,CAAC,CAAC,CAAA;CAkFrF,CAAC;AAEF,eAAe,cAAc,CAAC"}

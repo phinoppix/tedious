@@ -91,7 +91,9 @@
     "test": "mocha test/unit test/unit/token test/unit/tracking-buffer",
     "test-integration": "mocha test/integration/",
     "test-all": "mocha test/unit/ test/unit/token/ test/unit/tracking-buffer test/integration/",
-    "build": "rimraf lib && babel src --out-dir lib --extensions .js,.ts",
+    "zap:types": "rimraf types/",
+    "build:types": "npm run zap:types && tsc -p tsconfig.types.json",
+    "build": "npm run build:types && rimraf lib && babel src --out-dir lib --extensions .js,.ts",
     "prepublish": "npm run build",
     "semantic-release": "semantic-release"
   },

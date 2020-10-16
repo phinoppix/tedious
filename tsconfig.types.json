@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "moduleResolution": "node",
+    "allowJs": false,
+    "checkJs": false,
+    "strict": true,
+    "declaration": true,
+    "declarationMap": true,
+    "emitDeclarationOnly": true,
+    "isolatedModules": true,
+    "allowSyntheticDefaultImports": true,
+    "downlevelIteration": true,
+    "outDir": "types"
+  },
+  "files": ["src/tedious.ts"],
+  "exclude": ["src/**/test/"]
+}
+
